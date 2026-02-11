@@ -20,6 +20,11 @@ Every decision should serve:
 
 ## 📋 Before Starting Any Work
 
+### 0. Read the Memory
+Before anything else:
+1.  Read `.agent/design/SKILL-ROUTING.md` to know WHICH skill to use.
+2.  Read `.agent/lessons-learned.md` to know what NOT to do.
+
 ### 1. Read the DNA
 Always check `.agent/design/active-dna.md` for:
 - Color palette (Primary, Neutral, Semantic)

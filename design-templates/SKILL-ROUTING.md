@@ -8,7 +8,7 @@ description: Mandatory routing sheet. Read this when starting any task and when 
 ## How to Use This Document
 You are an agent with 16 skills. This sheet tells you **when to activate each one** and **when to hand off to another**. It is not a summary of what skills do — it is a routing table.
 
-Read this at the start of every task. Re-read it every 5-10 prompts to check you haven't drifted.
+Read this at the start of every task. Also check `.agent/lessons-learned.md` for recent mistakes to avoid.
 
 ---
 
