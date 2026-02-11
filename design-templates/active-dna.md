@@ -82,6 +82,18 @@ xl:   32px   (2rem)
 
 ---
 
+## 🌊 Fluid Scaling
+> **Philosophy**: Scale smoothly, don't jump.
+> **Formula**: `clamp(min, preferred, max)`
+
+```
+Base Size:    16px (mobile) → 18px (desktop)
+Scale Ratio:  1.2 (Major Third)
+Fluid Space:  clamp(1rem, 5vw, 3rem)
+```
+
+---
+
 ## ✨ Visual Effects
 
 ### Shadows
