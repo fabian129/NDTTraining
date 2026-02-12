@@ -273,6 +273,7 @@ When user shares a mid-build reference:
 
 - ❌ Don't run Design Director to "analyze" a mid-build reference
 - ❌ Don't update `active-dna.md` based on a mid-build reference
+- ❌ Don't override Signatures — if `active-dna.md` says "sharp corners" and the reference has rounded corners, you keep sharp corners
 - ❌ Don't change fonts, colors, or border-radius to match the reference
 - ❌ Don't ask "should this affect the whole site?" — the answer is always no
 - ❌ Don't treat a reference image as a pixel-perfect spec — it's a pattern source

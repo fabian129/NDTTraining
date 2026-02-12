@@ -82,30 +82,6 @@ xl:   32px   (2rem)
 
 ---
 
-## 🌊 Fluid Scaling
-> **Philosophy**: Scale smoothly, don't jump.
-> **Formula**: `clamp(min, preferred, max)`
-
-```
-Base Size:    16px (mobile) → 18px (desktop)
-Scale Ratio:  1.2 (Major Third)
-Fluid Space:  clamp(1rem, 5vw, 3rem)
-```
-
-### Tailwind Config Implementation
-*(Copy this into tailwind.config.ts > theme > extend)*
-```ts
-backgroundImage: {
-  'fluid-video': 'clamp(1rem, 5vw, 3rem)',
-},
-fontSize: {
-  'fluid-base': 'clamp(1rem, 2vw, 1.125rem)',
-  'fluid-h1': 'clamp(2.5rem, 5vw, 4rem)',
-}
-```
-
----
-
 ## ✨ Visual Effects
 
 ### Shadows

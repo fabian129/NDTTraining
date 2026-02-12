@@ -233,11 +233,6 @@ xl: 32px
 3xl: 64px
 4xl: 96px
 
-## 🌊 Fluid Scaling
-> **Formula**: `clamp(min, preferred, max)`
-Base: 16px → 18px
-
-
 ## ✨ Visual Effects
 
 ### Shadows
