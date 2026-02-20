@@ -1,7 +1,3 @@
----
-description: Set up a new Zaitex project automatically with the Monospace DNA and Production-Ready Core Stack
----
-
 # Zaitex Project Setup Workflow
 
 This workflow bootstraps a new Next.js project with the Zaitex branding, visual effects, and strict type safety settings.
